@@ -1,7 +1,6 @@
 pyrogram==1.4.4
 aiohttp
-aria2p
-aria2
+aria2p==0.11.2
 hachoir
 Pillow
 pySmartDL
