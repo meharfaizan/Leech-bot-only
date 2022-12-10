@@ -1,7 +1,7 @@
 pyrogram==1.4.4
 aiohttp
 aria2p==0.11.2
-https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win-32bit-build1.zip
+https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win-64bit-build1.zip
 hachoir
 Pillow
 pySmartDL
