@@ -8,3 +8,4 @@ tgcrypto
 Flask
 gunicorn
 Dockerfile
+aria2r
