@@ -2,7 +2,7 @@ pyrogram==1.4.4
 aiohttp
 aria2p==0.11.2
 aria
--y git aria2
+git aria2
 hachoir
 Pillow
 pySmartDL
