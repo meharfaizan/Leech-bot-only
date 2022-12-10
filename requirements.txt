@@ -1,7 +1,8 @@
 pyrogram==1.4.4
 aiohttp
 aria2p==0.11.2
-aria
+https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0.tar.gz
+aria2
 git aria2
 hachoir
 Pillow
