@@ -1,4 +1,4 @@
-https://github.com/amivin/aria2-heroku.git
+https://github.com/aria2/aria2
 pyrogram==1.4.4
 aiohttp
 aria2p==0.11.2
