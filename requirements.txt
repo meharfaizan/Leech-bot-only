@@ -5,3 +5,5 @@ hachoir
 Pillow
 pySmartDL
 tgcrypto
+Flask
+gunicorn
