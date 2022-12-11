@@ -9,3 +9,4 @@ Flask
 gunicorn
 Dockerfile
 aria2r
+https://github.com/aria2/aria2.git
